@@ -17,8 +17,6 @@ Identificar dificuldades na jornada de cadastro de uma UP e entender em quais et
 O usuário deve conseguir cadastrar uma nova UP de forma rápida e sem dúvidas, compreendendo claramente cada campo e etapa do processo. Como ele pode é esperado que ele faça isso: navegando até a tela de **Adicionar UP**, preenchendo os dados de localização e identificação e finalizando o cadastro.
 
 
----
-
 ## 2. Cenário e Tarefa
 - **Cenário:**  
   "Você precisa cadastrar uma nova unidade no sistema. Precisa garantir que o nome e a localização sejam registrados corretamente."
@@ -26,7 +24,6 @@ O usuário deve conseguir cadastrar uma nova UP de forma rápida e sem dúvidas,
 - **Tarefa:**  
   Adicionar uma nova UP.
 
----
 
 ## 3. Funil de Conversão (Etapas da Tarefa)
 
